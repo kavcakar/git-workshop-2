@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 iyi günler
+=======
+hayırlı olsun
+>>>>>>> new-feature-2
